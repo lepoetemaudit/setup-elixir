@@ -1,4 +1,5 @@
 #!/bin/bash
 
+mkdir -p .setup-elixir/otp
 set -x
 echo "Disabled Erlang install"
